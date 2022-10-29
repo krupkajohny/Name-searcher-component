@@ -4,7 +4,7 @@
 
 ## JavaScript - practicing:
 
--creating html elements from scratch
+- creating html elements from scratch
 - modifying elements (classes, innerText, attributes, etc.)
 - inserting created elements to HTML
 - getting content data from an [ ]
