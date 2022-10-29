@@ -40,7 +40,6 @@ const nameFilter = () => {
 
     nameList.forEach((name) => {
       const strFound = name.toLocaleLowerCase().includes(searchInputEl.value.toLowerCase());
-
       if (strFound) elCreatorInsertor('li', name, 'name', namesListEl, undefined);
     });
   });
