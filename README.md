@@ -1,6 +1,6 @@
 # Name Searcher Component
 
-# Live version: https://krupkajohny.github.io/name-searcher-component/
+# Live version: https://krupkajohny.github.io/Name-searcher-component/
 
 ## JavaScript - practicing:
 
